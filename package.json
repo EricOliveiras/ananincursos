@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/EricOliveiras/ananincursos/issues"
   },
-  "homepage": "https://github.com/EricOliveiras/ananincursos#readme"
+  "homepage": "https://github.com/EricOliveiras/ananincursos#readme",
+  "devDependencies": {
+    "@types/node": "^22.13.9",
+    "prisma": "^6.4.1",
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  }
 }
